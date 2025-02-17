@@ -1,4 +1,4 @@
-# 💕 AI-HealthCare-Assistant
+# 💕 AI-Powered Health Assistant
 <div id="top" align="center">
   <img src="https://user-images.githubusercontent.com/78981558/155504905-3bd2d8db-64f5-413c-b7d2-d4e7842ddad8.png" width="250" height="250"/>
   <div id="badges">
@@ -66,7 +66,7 @@ This is the official AI-HealthCare-Assistant documentation <br/>
 
 <!-- ABOUT THE PROJECT -->
 ## 📃 About The Project
-<b>"NearestDoctor"</b> is an AI healthcare assistant that uses AI and machine learning algorithms to improve patients' experience by providing them professional medical assistance. Patients will be able to find the nearest doctor to their location, ask about illness symptoms, and schedule an appointment with a doctor based on their availability. Immediate responses will be provided by a chatbot to redeem the needs of our patients using Artificial Intelligence techniques for decision making. Also, our solution offers a very unique concept with developing patient records using Blockchain. The assistant will create a medical record and store it in Blockchain to make them accessible to any of the patient's chosen doctors with granted permission. Thanks to the decentralized nature of Blockchain, patient records would be securely spread among a large number of servers, posing little risk to their sensitive information.<br>
+<b>"NearestDoctor"</b> is an AI health assistant that uses AI and machine learning algorithms to improve patients' experience by providing them professional medical assistance. Patients will be able to find the nearest doctor to their location, ask about illness symptoms, and schedule an appointment with a doctor based on their availability. Immediate responses will be provided by a chatbot to redeem the needs of our patients using Artificial Intelligence techniques for decision making. Also, our solution offers a very unique concept with developing patient records using Blockchain. The assistant will create a medical record and store it in Blockchain to make them accessible to any of the patient's chosen doctors with granted permission. Thanks to the decentralized nature of Blockchain, patient records would be securely spread among a large number of servers, posing little risk to their sensitive information.<br>
 This web application centralizes the schedules and medical services in a single dashboard. This solution offers a real-time overview of the coverage of reports that facilitate the management of resources.<br>
 
  ### 📜 Project Main features
